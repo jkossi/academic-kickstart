@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Francis Ayensu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,42 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer and Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Ghana Technology University College
+  url: "https://site.gtuc.edu.gh/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Banking
+- Financial Market
+- Corporate Reporting
+- Corporate Finance
+- Investment Analysis
+- Portfolio Management
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Business Administration (Ongoing)
+    institution: Apollos University, Montana, USA
+    year: 2020
+  - course: MSc in Economics of Insurance and Social Security
+    institution: Mohamed V University, Rabat, Morocco 
+    year: March 2011
+  - course: BBA (Honors) in Finance and Accounting
+    institution: Abdelmalek Essaadi University, Tangiers, Morocco
+    year: July 2008
+  - course: SSS Certificate
+    institution: Pope John Senior High School, Koforidua, Ghana
+    year: August 2001
+  - course: JSS Certificate
+    institution: Saint Peter's Anglican, Koforidua, Ghana
+    year: August 1998
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,19 +55,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/francis-ayensu-5aa12b30
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/escobery2k
+  
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
+# - icon: linkedin
+#   icon_pack: fab
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -70,6 +82,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Francis Ayensu is a well accomplished young man who is ambitious to become a leading entrepreneur in Ghana and beyond. He has successfully founded startups which are doing well. His first, startup, was a consulting firm, FREELANCE INVESTMENT CONSULT (FIC) which was established in 2014. His second startup was a pre-tertiary institution, FIC SCHOOL OF PROFESSIONAL STUDIES, which was established in 2017.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Besides these accomplishments, he is a lecturer and researcher by profession and has lectured and continue to lecture in several tertiary institutions of university level in area of Accounting and Finance.
+
+His commitment to professionalism has pushed him to pursue professional training in the area of Accounting and Finance. He is a qualified chartered accountant with certification from The Institute of Chartered Accountant, Ghana (ICAG), and currently a level 2 candidate for the Financial Analyst Program of The CFA Institute, US.
